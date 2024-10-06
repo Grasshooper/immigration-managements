@@ -1,0 +1,1 @@
+[["/home/project/src/vite-env.d.ts","/// <reference types=\"vite/client\" />\n\ninterface ImportMetaEnv {\n  readonly VITE_CLERK_PUBLISHABLE_KEY: string\n  // add more environment variables as needed\n}\n\ninterface ImportMeta {\n  readonly env: ImportMetaEnv\n}"]]
